@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+SOu um estudante de Engenharia de Software e estou perto de finalizar o meu curso.
